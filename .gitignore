@@ -1,0 +1,7 @@
+.vs/
+build/
+intermediate/
+Tetris.sln
+Tetris.vcxproj
+Tetris.vcxproj.filters
+Tetris.vcxproj.user
